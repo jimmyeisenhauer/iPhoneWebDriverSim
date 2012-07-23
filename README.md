@@ -22,7 +22,8 @@ Must have xcode installed with 5.1
 
 Resources
 =============
-[Selenium WebDriver](https://github.com/Selenium2/Selenium2).
+[Selenium WebDriver](https://github.com/Selenium2/Selenium2)
 
-[Selenium iPhone Driver](http://code.google.com/p/selenium/wiki/IPhoneDriver).
+[Selenium iPhone Driver](http://code.google.com/p/selenium/wiki/IPhoneDriver)
+
 [Simlaunch](https://github.com/landonf/simlaunch).
