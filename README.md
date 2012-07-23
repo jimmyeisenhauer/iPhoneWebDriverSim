@@ -16,7 +16,7 @@ close app
 osascript -e 'tell app "iPhone Simulator" to quit'
 ```
 
-Reqirements
+Requirements
 =============
 Must have xcode installed with 5.1
 
